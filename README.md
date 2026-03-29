@@ -43,7 +43,7 @@ Es wird eine CoreXY-Kinematik verwendet.
 
 Dabei steuern zwei Schrittmotoren über ein Riemensystem die Bewegung in X- und Y-Richtung. Dieses Konzept ermöglicht eine geringere bewegte Masse und sorgt für stabilere Bewegungen, insbesondere bei höheren Geschwindigkeiten.
 
-(CoreXY-Schema kann hier ergänzt werden)
+Core-XY-Schema ansehen Core-XY-Schema
 
 ---
 
