@@ -66,6 +66,16 @@ Core-XY-Schema ansehen Core-XY-Schema
 - T8-Mutter
 - Kupplung
 
-## CAD-Struktur
+---
 
-Das CAD-Modell wurde in Autodesk Fusion 360 erstellt und klar in Baugruppen strukturiert:
+###meine Gedanken und Entscheidungen
+
+-Ursprünglich habe ich zwischen einem Aluminiumprofil und einem gedruckten Rahmen gewählt, da die Profile bei Amazon zu teuer waren (20-40 Euro für 2 Profile 2020 400 mm). Aber ich habe 12 Profile für 20 Euro gefunden, also war die Wahl offensichtlich.
+
+-Die Befestigungen für ihre Verbindung waren ebenfalls teuer, und die gedruckten [Teile] bogen sich stark durch und waren zu zerbrechlich. Ich bin einen anderen Weg gegangen. Ich habe Löcher im Profil gebohrt. Zuerst 6 Millimeter bis zur Mitte und 3,2 mm durchgehend und die Profile mit M3-Schrauben verbunden. Die Verbindung war ziemlich stabil und das hat mich zufrieden gestellt.
+
+-Ich habe die MGN12H Linearführungsschienen in unterschiedlichen Längen bestellt, weil ich bei der Bestellung zunächst falsche Maße angegeben habe. Eigentlich hätte ich 3 Stück mit jeweils 350 mm bestellen sollen, stattdessen habe ich zuerst 300 mm genommen.
+
+Als ich gemerkt habe, dass diese Länge nicht ausreicht, habe ich mich bewusst entschieden, sie nicht zurückzugeben. Danach habe ich 2 Stück mit 350 mm bestellt, aber der Verkäufer hatte nur noch eine auf Lager. Er bot mir stattdessen eine 400-mm-Schiene zum gleichen Preis (zzgl. Versandkosten) an, was ich akzeptiert habe.
+
+An sich ist das kein großes Problem, allerdings musste ich meine Konstruktion bereits während des Zusammenbaus anpassen, da ich beim Entwurf ursprünglich von zwei identischen Führungen ausgegangen war.
