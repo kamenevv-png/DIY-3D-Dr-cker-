@@ -68,7 +68,7 @@ Core-XY-Schema ansehen Core-XY-Schema
 
 ---
 
-###meine Gedanken und Entscheidungen
+## Meine Gedanken und Entscheidungen
 
 -Ursprünglich habe ich zwischen einem Aluminiumprofil und einem gedruckten Rahmen gewählt, da die Profile bei Amazon zu teuer waren (20-40 Euro für 2 Profile 2020 400 mm). Aber ich habe 12 Profile für 20 Euro gefunden, also war die Wahl offensichtlich.
 
@@ -79,3 +79,7 @@ Core-XY-Schema ansehen Core-XY-Schema
 Als ich gemerkt habe, dass diese Länge nicht ausreicht, habe ich mich bewusst entschieden, sie nicht zurückzugeben. Danach habe ich 2 Stück mit 350 mm bestellt, aber der Verkäufer hatte nur noch eine auf Lager. Er bot mir stattdessen eine 400-mm-Schiene zum gleichen Preis (zzgl. Versandkosten) an, was ich akzeptiert habe.
 
 An sich ist das kein großes Problem, allerdings musste ich meine Konstruktion bereits während des Zusammenbaus anpassen, da ich beim Entwurf ursprünglich von zwei identischen Führungen ausgegangen war.
+
+-Auch auf der Z-Achse traten Probleme auf, insbesondere bei der Befestigung der Metallwellen. Ich hatte die Länge der Wellen im Voraus nicht berechnet und musste daher die Aufnahmen nachträglich aufbohren, damit die Wellen überhaupt passen.
+
+-Am wenigsten Probleme gab es mit den Halterungen für die Motoren und den Winkelhalterungen für den Riemen. Alles, was geändert werden musste, war, die Winkelhalterungen niedriger zu machen, damit MGN12H passt.
