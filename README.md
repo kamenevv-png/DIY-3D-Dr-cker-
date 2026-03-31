@@ -72,6 +72,8 @@ Core-XY-Schema ansehen Core-XY-Schema
 
 CoreXY_TRONXY_CRUX1_v1 (Marlin)
 
+---
+
 ### Meine Gedanken und Entscheidungen
 
 -Ursprünglich habe ich zwischen einem Aluminiumprofil und einem gedruckten Rahmen gewählt, da die Profile bei Amazon zu teuer waren (20-40 Euro für 2 Profile 2020 400 mm). Aber ich habe 12 Profile für 20 Euro gefunden, also war die Wahl offensichtlich.
