@@ -50,7 +50,7 @@ Core-XY-Schema ansehen Core-XY-Schema
 ### Mechanischer Aufbau
 
 *Rahmen*
-- Aluminiumprofil 2020
+- Aluminiumprofil 2020 400mm x 12
 
 *Führungen*
 - Linearschienen MGN12H (300 mm, 350 mm, 400 mm)
@@ -68,7 +68,11 @@ Core-XY-Schema ansehen Core-XY-Schema
 
 ---
 
-## Meine Gedanken und Entscheidungen
+### Software
+
+CoreXY_TRONXY_CRUX1_v1 (Marlin)
+
+### Meine Gedanken und Entscheidungen
 
 -Ursprünglich habe ich zwischen einem Aluminiumprofil und einem gedruckten Rahmen gewählt, da die Profile bei Amazon zu teuer waren (20-40 Euro für 2 Profile 2020 400 mm). Aber ich habe 12 Profile für 20 Euro gefunden, also war die Wahl offensichtlich.
 
